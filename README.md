@@ -28,6 +28,5 @@ This project showcases my ability to design and develop modern, responsive, and 
 ---
 
 ### 🔗 Live Demo
-If deployed, you can add your live link here:
-👉 [View Project](https://your-live-demo-link.com)
+
 
